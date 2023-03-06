@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		54097F0D29B657410052B278 /* MyModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54097F0C29B657410052B278 /* MyModalViewController.swift */; };
 		54A5B2A729B3263B009422AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A5B2A629B3263B009422AD /* AppDelegate.swift */; };
 		54A5B2A929B3263B009422AD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A5B2A829B3263B009422AD /* SceneDelegate.swift */; };
 		54A5B2AB29B3263B009422AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A5B2AA29B3263B009422AD /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		54097F0C29B657410052B278 /* MyModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModalViewController.swift; sourceTree = "<group>"; };
 		54A5B2A329B3263B009422AD /* FathersKickMarathonV2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FathersKickMarathonV2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		54A5B2A629B3263B009422AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		54A5B2A829B3263B009422AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				54A5B2A829B3263B009422AD /* SceneDelegate.swift */,
 				54A5B2AA29B3263B009422AD /* ViewController.swift */,
 				54A5B2AC29B3263B009422AD /* Main.storyboard */,
+				54097F0C29B657410052B278 /* MyModalViewController.swift */,
 				54A5B2AF29B3263D009422AD /* Assets.xcassets */,
 				54A5B2B129B3263D009422AD /* LaunchScreen.storyboard */,
 				54A5B2B429B3263D009422AD /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54097F0D29B657410052B278 /* MyModalViewController.swift in Sources */,
 				54A5B2AB29B3263B009422AD /* ViewController.swift in Sources */,
 				54A5B2A729B3263B009422AD /* AppDelegate.swift in Sources */,
 				54A5B2A929B3263B009422AD /* SceneDelegate.swift in Sources */,
